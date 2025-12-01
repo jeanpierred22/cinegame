@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="javafx-sdk-21.0">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../sdkproyecto cinegame/javafx-sdk-21.0.9" />
+    </SOURCES>
+    <excluded>
+      <root url="jar://$PROJECT_DIR$/../sdkproyecto cinegame/javafx-sdk-21.0.9/src.zip!/javafx.fxml" />
+    </excluded>
+    <jarDirectory url="file://$PROJECT_DIR$/../sdkproyecto cinegame/javafx-sdk-21.0.9" recursive="false" type="SOURCES" />
+  </library>
+</component>
